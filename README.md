@@ -4,33 +4,33 @@ This document contains screenshots of all the web pages from the Explore Paradis
 
 ## Website Screenshots
 
-### Screenshot 1
-![Screenshot 1](images/Screenshot 2025-10-31 at 21.25.12.png)
+### Home Page
+![Home Page](images/home.png)
 
 ---
 
-### Screenshot 2
-![Screenshot 2](images/Screenshot 2025-10-31 at 21.25.28.png)
+### About Page
+![About Page](images/about.png)
 
 ---
 
-### Screenshot 3
-![Screenshot 3](images/Screenshot 2025-10-31 at 21.25.43.png)
+### Destinations Page
+![Destinations Page](images/destination.png)
 
 ---
 
-### Screenshot 4
-![Screenshot 4](images/Screenshot 2025-10-31 at 21.25.55.png)
+### Gallery Page
+![Gallery Page](images/gallery.png)
 
 ---
 
-### Screenshot 5
-![Screenshot 5](images/Screenshot 2025-10-31 at 21.26.05.png)
+### Contact Page
+![Contact Page](images/contact.png)
 
 ---
 
-### Screenshot 6
-![Screenshot 6](images/Screenshot 2025-10-31 at 21.28.13.png)
+### Video Section
+![Video Section](images/video.png)
 
 ---
 
